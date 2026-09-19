@@ -1,0 +1,3 @@
+{"ts": "2026-09-19T18:59:12", "op": "ls", "target": "/tmp/v2test_root", "result": "3 entries"}
+{"ts": "2026-09-19T18:59:12", "op": "read", "target": "/tmp/v2test_root/sample.txt", "result": "9B"}
+{"ts": "2026-09-19T18:59:12", "op": "exec-queued", "target": "npm install", "result": "590c7193"}
